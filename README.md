@@ -91,6 +91,3 @@ eda-ames-housing/
 Analista de Datos
 [LinkedIn](https://www.linkedin.com/in/) · [GitHub](https://github.com/JordanAramis)
 
----
-
-*Proyecto desarrollado con apoyo de herramientas de IA para optimizar la estructura y presentación del notebook.*
